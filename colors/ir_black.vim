@@ -265,7 +265,3 @@ hi tasksProject     guifg=#96CBFE     guibg=NONE        gui=bold      ctermfg=bl
 
 hi link tasksDoneBullet  String
 hi link tasksItemBullet  Function
-
-
-" Special for Extra Whitespace
-hi ExtraWhitespace guifg=NONE         guibg=#FF6C60     gui=NONE      ctermfg=NONE        ctermbg=red         cterm=NONE
