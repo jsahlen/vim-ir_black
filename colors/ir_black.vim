@@ -260,6 +260,10 @@ hi link qfSeparator  NonText
 hi link qfLineNr     LineNr
 
 
+" Special for CommandT
+hi CommandTSelection guifg=#000000     guibg=#cae682     gui=NONE      ctermfg=NONE        ctermbg=NONE        cterm=NONE
+
+
 " Special for Tasks
 hi tasksProject     guifg=#96CBFE     guibg=NONE        gui=bold      ctermfg=blue        ctermbg=NONE        cterm=NONE
 
